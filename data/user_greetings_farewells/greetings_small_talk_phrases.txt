@@ -1,0 +1,350 @@
+hi
+hello
+hey
+hi there
+hey there
+hello there
+good morning
+good afternoon
+good evening
+good night
+how are you
+what's up
+how's it going
+yo
+hiya
+hola
+namaste
+namaskar
+greetings
+sup
+what's new
+howdy
+what's happening
+what's good
+long time no see
+hey there
+hey, how’s it going?
+how are you doing?
+nice to meet you
+how's everything?
+how’s life treating you?
+how's your day?
+what's going on?
+what's cracking?
+hi there
+what’s up with you?
+hey, what’s up?
+how’s your day been?
+what’s up buddy?
+hello there
+nice to see you
+pleased to meet you
+what’s new with you?
+hey, what’s happening?
+good to see you
+how's life?
+how are things?
+yo, what’s up?
+hello, how are you doing today?
+hey, how have you been?
+how's everything going?
+how’s your morning going?
+how’s it going today?
+all good?
+everything alright?
+how’s it feel today?
+how are things going for you?
+hope you're doing well
+what's shaking?
+yo yo yo
+how’s it hanging?
+what’s good today?
+how’s everything going with you?
+how’s your week been?
+how’s work going?
+anything exciting happening?
+how’s your day going so far?
+you alright?
+how are things going on your side?
+how’s the weather over there?
+what’s up, buddy?
+what's the news?
+what’s going on in your world?
+what’s the scoop?
+what's cooking?
+how's the vibe?
+how’s everything on your end?
+how’s life treating you today?
+nice to hear from you!
+what’s up, champ?
+what’s the deal?
+yo, what’s good?
+how’s your day treating you?
+yo, how’s life?
+hey, how you doing?
+what’s up, pal?
+how you been?
+what’s new in your world?
+what’s the word?
+how goes it?
+hey, how’s the vibe?
+hey there, stranger!
+how’s the family?
+how’s everything on your side?
+what’s going on in your neck of the woods?
+how’s the hustle going?
+how are you feeling today?
+hey, all good with you?
+how are we feeling today?
+what’s up with the day so far?
+what’s cracking today?
+how’s the morning been treating you?
+anything fun today?
+what’s the latest?
+how's everything on your end of things?
+what’s the scoop today?
+how's the world treating you?
+anything exciting going on?
+how's everything shaking out?
+what are you up to today?
+how are you holding up?
+you good?
+you well?
+how’s everything hanging today?
+what’s going on in your life lately?
+how’s your energy today?
+how’s your day so far?
+how’s the weekend going?
+how’s it been going today?
+what’s going on in your day so far?
+feeling good today?
+how’s it hanging over there?
+you alright today?
+what’s up, friend?
+hey hey!
+what’s been going on?
+how’s your journey been lately?
+how’s the mood today?
+how’s your vibe this morning?
+what’s the haps?
+how’s everything coming along?
+how are you feeling at the moment?
+anything fun planned today?
+how’s the weather been for you today?
+what's cooking in your life today?
+how’s your week going?
+how’s everything stacking up today?
+how are you doing this fine day?
+what’s new with you lately?
+how’s everything today?
+how are you managing today?
+how’s the whole day been so far?
+you’ve been good today?
+hey there, what’s up?
+Hiya, how's everything?
+Hey, how's life treating you today?
+What's going on with you today?
+How’s everything shaping up?
+What’s going down?
+How’s the world treating you today?
+What’s new with you today?
+How’s everything going on your end?
+How’s your morning treating you?
+How’s the afternoon treating you?
+What’s the buzz today?
+What’s the latest with you?
+What’s cooking with you?
+How are things in your world?
+What’s happening in your life?
+How’s your energy today?
+What’s on your mind today?
+What’s happening around you?
+How’s it going on your side of things?
+What’s popping?
+What’s happening in your neck of the woods?
+What’s cracking today?
+How’s everything working out?
+How’s life today?
+How are you finding today so far?
+What’s good in your world?
+What’s up with your day today?
+What’s good with you today?
+How’s everything holding up today?
+How’s your mood today?
+How’s your day panning out?
+How are you feeling in general today?
+How’s everything stacking up today?
+How’s everything coming along today?
+How’s everything going on in your day?
+What’s new on your end?
+How’s your day shaping up?
+How’s your vibe today?
+How’s your energy level today?
+What’s up, champ?
+What’s good in the hood?
+How’s it going in your corner of the world?
+What’s up with you today?
+How’s everything treating you today?
+How’s your world spinning today?
+What’s up on your end?
+Hi, how's everything going today?
+Hi there, what’s new with you?
+Hi, how’s your day going so far?
+Hi, what’s up with you today?
+Hi, how are things going on your end?
+Hi, how’s everything going in your world?
+Hi, how’s your day been treating you?
+Hi there, what’s happening today?
+Hi, how’s your vibe today?
+Hi, how’s it feeling today?
+Hi there, how are you doing today?
+Hi, how are things working out for you?
+Hi, what’s good in your world today?
+Hi, how’s everything shaking out?
+Hi, what’s up with you today?
+Hi, how’s everything coming along today?
+Hi, how’s everything stacking up?
+Hi, how’s the day treating you so far?
+Hi there, how’s your energy today?
+Hi, how’s life treating you today?
+Hi, what’s up in your world today?
+Hi, what’s going on with you today?
+Hi, what’s cracking today?
+Hi, how’s your morning treating you?
+Hi, how’s the weather treating you today?
+Hi there, how’s your journey going today?
+Hi, how’s everything holding up for you today?
+Hi, how’s your day panning out?
+Hi, how are you feeling today?
+Hi, what’s the scoop today?
+Hi, what’s going on in your life today?
+Hi, how’s your energy level today?
+Hi there, how’s everything holding up on your end?
+Hi, how’s your vibe today?
+Hi, what’s on your mind today?
+Hi there, how’s your day shaping up?
+Hi, how’s everything going with you today?
+Hi, how’s your day looking so far?
+Hi there, what’s new on your end today?
+Hi, how’s your week going?
+Hi, how’s everything working out today?
+Hi there, how’s everything unfolding today?
+Hi, how’s your day so far?
+Hi, what’s new with you today?
+Hi, what’s the latest in your world?
+Hi, how’s everything going down today?
+Hi, what’s the deal today?
+Hi there!
+Hi, how’s it going?
+Hi, what’s up?
+Hi, how are you?
+Hi, how’s your day?
+Hi, what’s new?
+Hi, all good?
+Hi, how’s life?
+Hi, what’s up with you?
+Hi, how’s it going today?
+Hi, how’s everything?
+Hi, what’s going on?
+Hi, what’s crackin’?
+Hi, how’s it feel?
+Hi, how are things?
+Hi, what’s happening?
+Hi, how’s your morning?
+Hi, what’s good?
+Hi, how’s it hanging?
+Hi, how’s the vibe?
+Hi, feeling good?
+Hi, what’s the word?
+Hi, how’s work?
+Hi, any news?
+Hi, what’s cooking?
+Hi, how’s the weather?
+Hi, how’s it going so far?
+Hi, how’s the mood?
+Hi, what’s the latest?
+Hi, what’s the haps?
+Hi, what’s new today?
+Hey!
+Hey, how’s it going?
+Hey, what’s up?
+Hey, how are you?
+Hey, how’s your day?
+Hey, what’s new?
+Hey, what’s happening?
+Hey, how’s it feel?
+Hey, how’s everything?
+Hey, how’s life?
+Hey, what’s going on?
+Hey, what’s good?
+Hey, how’s it hanging?
+Hey, what’s the word?
+Hey, what’s cooking?
+Hey, how’s your morning?
+Hey, how’s it going today?
+Hey, feeling good?
+Hey, what’s the vibe?
+Hey, how’s your energy?
+Hey, what’s the scoop?
+Hey, how’s the weather?
+Hey, anything fun today?
+Hey, how’s work going?
+Hey, what’s the latest?
+Hey, what’s up with you?
+Hey, what’s going on today?
+Hello!
+Hello, how’s it going?
+Hello, what’s up?
+Hello, how are you?
+Hello, what’s new?
+Hello, how’s your day?
+Hello, what’s happening?
+Hello, how’s everything?
+Hello, how’s life?
+Hello, how’s it going today?
+Hello, what’s good?
+Hello, what’s the word?
+Hello, how are things?
+Hello, what’s cooking?
+Hello, what’s the latest?
+Hello, how’s your morning?
+Hello, how’s everything today?
+Hello, how’s it feel?
+Hello, feeling good today?
+Hello, what’s going on?
+Hello, how’s the weather?
+Hello, anything exciting today?
+Hello, what’s up with you?
+Hello, how’s work going?
+Hello, what’s the vibe?
+Hello, how’s it going so far?
+Good morning!
+Good afternoon!
+Good evening!
+Good night!
+Good day!
+Good to see you!
+Good to have you here!
+Good luck today!
+Good vibes only!
+Good evening, how’s it going?
+Good morning, how are you today?
+Good night, sleep well!
+Good day, how’s everything going?
+Good morning, hope you’re doing well!
+Good afternoon, what’s up?
+Good evening, how’s your day been?
+Good night, rest up!
+Good morning, hope your day is great!
+Good evening, hope you’re having a lovely time!
+Good day, how are things?
+Good night, take care!
+Good morning, ready to start the day?
+Good evening, all set for the night?
+Good day, what can I help you with?
+Good night, see you tomorrow!
+Good morning, let’s get started!
+Good evening, feeling good?
+Good afternoon, how’s your day treating you?
+Good night, have sweet dreams!
